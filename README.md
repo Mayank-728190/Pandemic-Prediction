@@ -1,6 +1,6 @@
 # 🚀 Pandemic Prediction Project
 
-![Pandemic Analysis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Pandemic_illustration.jpg)
+
 
 ## 📌 Overview
 This project aims to predict the spread and impact of pandemics, focusing on variables such as total cases, deaths, vaccination rates, and socioeconomic factors. The model incorporates data from two main sources:
@@ -54,16 +54,16 @@ This project aims to predict the spread and impact of pandemics, focusing on var
 
 ## 📊 Outcome Graphs
 ### 🏥 ICU Occupancy vs. Total Cases
-![ICU Occupancy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ICU_beds_per_million.png/800px-ICU_beds_per_million.png)
+![ICU Occupancy](1.png)
 
 ### 📈 Daily Cases vs. Vaccination Rate
-![Cases vs. Vaccination](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Vaccine_and_cases_graph.png/800px-Vaccine_and_cases_graph.png)
+![Cases vs. Vaccination](2.png)
 
 ### 📉 Moving Average of Death Rates
-![Moving Average Death Rates](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/COVID_death_rate.png/800px-COVID_death_rate.png)
+![Moving Average Death Rates](3.png)
 
 ### 🌎 Heatmap of Case Spread
-![Heatmap](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Heatmap.png/800px-Heatmap.png)
+![Heatmap](4.png)
 
 ## 🔍 Findings and Recommendations
 
